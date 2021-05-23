@@ -2,6 +2,10 @@
 
 A simple Kafka POC using [Go], the [kafka-go] package, and the example provided in the package. 
 
+## Preparation
+- Install [Docker desktop](https://docs.docker.com/docker-for-mac/install/)
+- Install [Apache Kafka](https://medium.com/@Ankitthakur/apache-kafka-installation-on-mac-using-homebrew-a367cdefd273)
+
 ## To start/stop
 
     % docker-compose up/down
