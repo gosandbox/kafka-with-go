@@ -1,6 +1,6 @@
 # Kafka With Go
 
-A simple Kafka POC using [Go], the [kafka-go] package, and the example provided in the package. 
+A Kafka implementation using [Go], the [kafka-go] package, and the example provided in the kafka-go package. 
 
 ## Preparation
 - Install [Docker desktop](https://docs.docker.com/docker-for-mac/install/)
