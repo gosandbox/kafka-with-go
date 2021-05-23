@@ -10,7 +10,7 @@ A Kafka implementation using [Go], the [kafka-go] package, and the example provi
 
     % docker-compose up/down
 
-Then use docker-desktop to inspect or use terminal log to see a uuid is produced and consumed see the log.  
+Then use docker-desktop to inspect or terminal log to see a uuid is produced every few seconds.  
 
 ## Go
 The [Get started with Go] explains how to bootstrap a simple project and dependency tracking.
